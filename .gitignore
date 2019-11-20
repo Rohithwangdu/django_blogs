@@ -126,6 +126,7 @@ dmypy.json
 ### Vagrant ###
 # General
 .vagrant/
+creds_own
 
 # Log files (if you are creating logs in debug mode, uncomment this)
 # *.logs
